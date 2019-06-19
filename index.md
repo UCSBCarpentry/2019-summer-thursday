@@ -1,21 +1,19 @@
 ---
-title: Summer 2019 Python  - UCSB Software Carpentry
+title: Summer 2019 Python Thursdays  - UCSB Software Carpentry
 
 ---
 <style> body {font-family: sans-serif;}</style>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <div class="container">
 
-# Summer 2019 Python  - UCSB Software Carpentry
-Both Tuesday and Thursday classes are now full. You can still sign up for the waitlist here:
+# Summer 2019 Python Thursdays  - UCSB Software Carpentry
+Both [Tuesday](https://ucsbcarpentry.github.io/2019-summer-tuesday/) and [Thursday](https://ucsbcarpentry.github.io/2019-summer-thursday/) sections are now full. To sign up for the waitlist click the button below.
 
 <button>[Waitlist Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeefc5qKvOl-DmUqTR9I5WQkU1_rtvGlXX_3SfAUmIUTNyzQQ/viewform?usp=sf_link)</button>
 
 ### Lessons:
 
    [Software Carpentry - Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/)
-
-## Two Sections offered:
 
 ### Section 2  Thursdays 9:30 - 11:00 am
 
@@ -54,9 +52,9 @@ Here are the Etherpads, a collaborative document, that we will use in our classe
 ### Instructors:
 
   - Sharon Solis
-  - Ian Lessing
   - Vania Wang
   - Noah Spahn
+  - Ian Lessing
 
 
 
