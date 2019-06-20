@@ -53,8 +53,6 @@ Here are the Etherpads, a collaborative document, that we will use in our classe
 
   - Sharon Solis
   - Vania Wang
-  - Noah Spahn
-  - Ian Lessing
 
 
 
