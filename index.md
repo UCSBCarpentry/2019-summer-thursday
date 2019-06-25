@@ -49,5 +49,9 @@ Here are the Etherpads, a collaborative document, that we will use in our classe
 
 
 
+### Surveys:
+
+### Recordings:
+
 
 </div>
