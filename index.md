@@ -11,28 +11,24 @@ Both [Tuesday](https://ucsbcarpentry.github.io/2019-summer-tuesday/) and [Thursd
 
 <button>[Waitlist Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeefc5qKvOl-DmUqTR9I5WQkU1_rtvGlXX_3SfAUmIUTNyzQQ/viewform?usp=sf_link)</button>
 
-### Lessons:
-
-   [Software Carpentry - Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/)
-
-### Etherpad:
-
-Here are the Etherpads, a collaborative document, that we will use in our classes:
-
-| [Etherpad for the Thursday section](https://pad.carpentries.org/ucsb-summer19-python-thurs)|
-| ---- |
-
 ## Where:
-
 UCSB Library, Classroom 1312 (with a few exceptions listed below)
   
 ## When:  
 Thursdays 9:30 - 11:00 am, from June 27 to September 12, 2019
 
 ### Instructors:
-
   - Sharon Solis
   - Vania Wang
+
+### Lessons:
+   [Software Carpentry - Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/)
+
+### Etherpad:
+Here are the Etherpads, a collaborative document, that we will use in our classes:
+
+| [Etherpad for the Thursday section](https://pad.carpentries.org/ucsb-summer19-python-thurs)|
+| ---- |
 
 ### Schedule:
 
